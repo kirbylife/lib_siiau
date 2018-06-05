@@ -1,6 +1,6 @@
 # lib_siiau: Libreria para Python para extraer información de alumnos y profesores de la UdeG
 
-## Extrae información de alumnos y profesores de la Universidad de Guadalajara
+### Extrae información de alumnos y profesores de la Universidad de Guadalajara
 
 ****
 * ##### __Dependencias__
