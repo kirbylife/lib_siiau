@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Poetry Stuff
+poetry.lock
+*.egg-info/
